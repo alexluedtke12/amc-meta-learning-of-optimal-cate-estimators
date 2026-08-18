@@ -1,0 +1,46 @@
+--------------------------------
+Fitting generalized additive model at n=500, s=4, M=5, and wdim=10.
+Setting Pi optimizer learning rate to 0.005
+Setting T optimizer learning rate to 0.001
+Iteration       0 :    Loss-adversarial =   0.0226
+...saving a checkpoint at iter:  0
+Iteration    2000 :    Loss-adversarial =   5.7898
+...saving a checkpoint at iter:  2000
+Iteration    4000 :    Loss-adversarial =   5.7064
+...saving a checkpoint at iter:  4000
+Iteration    6000 :    Loss-adversarial =   6.9493
+...saving a checkpoint at iter:  6000
+Iteration    8000 :    Loss-adversarial =   5.6102
+...saving a checkpoint at iter:  8000
+Iteration   10000 :    Loss-adversarial =   5.1571
+...saving a checkpoint at iter:  10000
+Iteration   12000 :    Loss-adversarial =   5.1516
+...saving a checkpoint at iter:  12000
+Iteration   14000 :    Loss-adversarial =   5.6761
+...saving a checkpoint at iter:  14000
+Iteration   16000 :    Loss-adversarial =   4.6056
+...saving a checkpoint at iter:  16000
+Iteration   18000 :    Loss-adversarial =   5.4680
+...saving a checkpoint at iter:  18000
+Iteration   20000 :    Loss-adversarial =   5.5945
+...saving a checkpoint at iter:  20000
+Iteration   22000 :    Loss-adversarial =   5.4461
+...saving a checkpoint at iter:  22000
+Iteration   24000 :    Loss-adversarial =   4.8235
+...saving a checkpoint at iter:  24000
+Iteration   26000 :    Loss-adversarial =   5.0357
+...saving a checkpoint at iter:  26000
+Iteration   28000 :    Loss-adversarial =   5.0180
+...saving a checkpoint at iter:  28000
+Iteration   30000 :    Loss-adversarial =   5.2405
+...saving a checkpoint at iter:  30000
+Iteration   32000 :    Loss-adversarial =   5.4120
+...saving a checkpoint at iter:  32000
+Iteration   34000 :    Loss-adversarial =   5.3602
+...saving a checkpoint at iter:  34000
+Iteration   36000 :    Loss-adversarial =   5.5485
+...saving a checkpoint at iter:  36000
+Iteration   38000 :    Loss-adversarial =   6.0281
+...saving a checkpoint at iter:  38000
+Iteration   40000 :    Loss-adversarial =   6.0968
+...saving a checkpoint at iter:  40000

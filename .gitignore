@@ -1,0 +1,22 @@
+# Claude / AI assistant files
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+
+# Hidden files
+.*
+!/.gitignore
+
+# Python caches and environments
+__pycache__/
+*.pyc
+env/
+venv/
+amc_env/
+
+# Scratch file written by learn2predict.py on import (GPU memory probe)
+tmp
+
+# Trained estimators are distributed via this repository's GitHub Release
+# (several exceed GitHub's 100 MB per-file limit)
+estimators/
